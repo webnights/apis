@@ -1,0 +1,20 @@
+{
+	"hero": [
+		{
+			"icon": "~/assets/images/hero/icons/1",
+			"text": "Satisfaction Guarantee"
+		},
+		{
+			"icon": "~/assets/images/hero/icons/1",
+			"text": "24H Availability"
+		},
+		{
+			"icon": "~/assets/images/hero/icons/1",
+			"text": "Local US Professional"
+		},
+		{
+			"icon": "~/assets/images/hero/icons/1",
+			"text": "Flexible Appointments"
+		}
+	]
+}
