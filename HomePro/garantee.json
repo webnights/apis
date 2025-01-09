@@ -1,4 +1,5 @@
-"friendly": [
+{
+	"friendly": [
 		{
 			"image": "/images/guarantee/1.svg",
 			"title": "Satisfaction Guarantee",
@@ -30,3 +31,5 @@
 			"description": "You are free to ask us about the problems you are facing. We offer a no-commitment approach to put your mind at ease"
 		}
 	]
+
+}
