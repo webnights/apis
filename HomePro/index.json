@@ -1,19 +1,19 @@
 {
 	"hero": [
 		{
-			"icon": "~/assets/images/hero/icons/1",
+			"icon": "~/assets/images/hero/icons/1.svg",
 			"text": "Satisfaction Guarantee"
 		},
 		{
-			"icon": "~/assets/images/hero/icons/1",
+			"icon": "~/assets/images/hero/icons/1.svg",
 			"text": "24H Availability"
 		},
 		{
-			"icon": "~/assets/images/hero/icons/1",
+			"icon": "~/assets/images/hero/icons/1.svg",
 			"text": "Local US Professional"
 		},
 		{
-			"icon": "~/assets/images/hero/icons/1",
+			"icon": "~/assets/images/hero/icons/1.svg",
 			"text": "Flexible Appointments"
 		}
 	]
