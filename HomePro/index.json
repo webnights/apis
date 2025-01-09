@@ -16,26 +16,6 @@
 			"icon": "/images/hero/icons/4.svg",
 			"text": "Flexible Appointments"
 		}
-	],
-	"professional":[
-		{
-			"text": "Repair and Installation"
-		},
-		{
-			"text": "Plumbing"
-		},
-		{
-			"text": "Maintenance"
-		},
-		{
-			"text": "Budget-friendly"
-		},
-		{
-			"text": "Home Security Services"
-		},
-		{
-			"text": "Eco-friendly solutions"
-		}
-
 	]
+	
 }
